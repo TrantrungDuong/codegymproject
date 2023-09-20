@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5aa374de-bf31-44de-94ce-ea7ff8285b34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HTML/TaoBang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/simpleForm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/demo javascript.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/my.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DeclareAndUseVar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/runDeclare.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/my.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/my.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +63,9 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="DeclareAndUseVar.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="DeclareAndUseVar.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
     <configuration name="my.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/js/my.js" nameIsGenerated="true" path-to-js-file="js/my.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -84,7 +82,7 @@
       <workItem from="1694778593811" duration="1496000" />
       <workItem from="1694780102467" duration="4563000" />
       <workItem from="1695037933796" duration="7276000" />
-      <workItem from="1695192513721" duration="3857000" />
+      <workItem from="1695192513721" duration="8533000" />
     </task>
     <servers />
   </component>

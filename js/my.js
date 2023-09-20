@@ -2,10 +2,12 @@
 // var x = +prompt("nhap vao gia tri x:")
 // var y = +prompt("nhap vao gia tri y:")
 // var z = x * y;
+
 // document.write(z)
 // alert("Ket qua= " + z);
 // alert("xin chao")
 // var number = +prompt("enter a number: ");
+
 // cac cau lenh lay input dau vao
 // 1 dung ham prompt
 // 2 thong qua value cua phan tu html input
