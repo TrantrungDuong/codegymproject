@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5aa374de-bf31-44de-94ce-ea7ff8285b34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/js/DeclareAndUseVar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/runDeclare.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/advancedTable.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/my.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/my.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/CreateTable.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/CreateTable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/DeclareAndUseVar.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/DeclareAndUseVar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,23 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/CODEGYM/js/my.js",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/CODEGYM/js/my.js&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\CODEGYM\HTML" />
@@ -82,7 +83,9 @@
       <workItem from="1694778593811" duration="1496000" />
       <workItem from="1694780102467" duration="4563000" />
       <workItem from="1695037933796" duration="7276000" />
-      <workItem from="1695192513721" duration="8533000" />
+      <workItem from="1695192513721" duration="9464000" />
+      <workItem from="1695210683755" duration="6143000" />
+      <workItem from="1695315161510" duration="3004000" />
     </task>
     <servers />
   </component>
